@@ -49,8 +49,8 @@ Best Approach: The Stacking Regressor combined with a Log Transformation yielded
 
 📂 Project Structure
 ├── data/
-│   ├── raw/            # Original dataset
-│   └── processed/      # Transformed and cleaned data
+│   ├── raw/            # Original dataset  
+│   └── processed/      # Transformed and cleaned data  
 ├── notebooks/
 │   └── 02_transform_comparison.ipynb
 │ 
