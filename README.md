@@ -49,12 +49,11 @@ Best Approach: The Stacking Regressor combined with a Log Transformation yielded
 
 📂 Project Structure
 ├── data/
-│   ├── raw/            # Original dataset  
-│   └── processed/      # Transformed and cleaned data  
-├── notebooks/
-│   └── 02_transform_comparison.ipynb
-│ 
-└── README.md
+│   ├── raw/         # Original dataset  
+│   └── processed/    # Transformed and cleaned data  
+├── notebooks/ 
+    └── 02_transform_comparison.ipynb 
+
 
 ⚙️ Installation & Usage
 Clone the repository:  https://github.com/Yousuf4455/House-Price-Prediction.git
