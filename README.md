@@ -47,12 +47,7 @@ Model Performance: Tree-based ensembles (LightGBM/XGBoost) generally outperform 
 
 Best Approach: The Stacking Regressor combined with a Log Transformation yielded the highest accuracy, balancing performance with production-ready interpretability.
 
-📂 Project Structure
-├── data/
-│   ├── raw/         # Original dataset  
-│   └── processed/    # Transformed and cleaned data  
-├── notebooks/ 
-    └── 02_transform_comparison.ipynb 
+
 
 
 ⚙️ Installation & Usage
